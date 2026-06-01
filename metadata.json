@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Video Bulk Forwarder",
+  "description": "Forward bulk video messages from a source Telegram group to a target group with automatic rate-limit wait handling and randomized safeguards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
